@@ -1,0 +1,64 @@
+[
+    {
+        "type": "File",
+        "name": "d:\\WorkSpace\\GitHub\\Week6-Vue3-2022\\w6-routes-table1\\package.json",
+        "parent_id": null,
+        "fsPath": "d:\\WorkSpace\\GitHub\\Week6-Vue3-2022\\w6-routes-table1\\package.json",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "jcNGIR3p5160QhwE"
+    },
+    {
+        "type": "File",
+        "name": "d:\\WorkSpace\\GitHub\\Week6-Vue3-2022\\w6-routes-table1\\src\\main.js",
+        "parent_id": null,
+        "fsPath": "d:\\WorkSpace\\GitHub\\Week6-Vue3-2022\\w6-routes-table1\\src\\main.js",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "0NOCFtR7rUS9mdsy"
+    },
+    {
+        "type": "File",
+        "name": "d:\\WorkSpace\\GitHub\\Week6-Vue3-2022\\w6-routes-table1\\src\\App.vue",
+        "parent_id": null,
+        "fsPath": "d:\\WorkSpace\\GitHub\\Week6-Vue3-2022\\w6-routes-table1\\src\\App.vue",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "CG4uNibOkAKgIpDR"
+    },
+    {
+        "type": "Directory",
+        "name": "d:\\WorkSpace\\GitHub\\Week6-Vue3-2022\\w6-routes-table1\\src\\views",
+        "parent_id": null,
+        "fsPath": "d:\\WorkSpace\\GitHub\\Week6-Vue3-2022\\w6-routes-table1\\src\\views",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "4ifMq2z1UHls8eQG"
+    },
+    {
+        "type": "File",
+        "name": "d:\\WorkSpace\\GitHub\\Week6-Vue3-2022\\w6-routes-table1\\src\\router\\index.js",
+        "parent_id": null,
+        "fsPath": "d:\\WorkSpace\\GitHub\\Week6-Vue3-2022\\w6-routes-table1\\src\\router\\index.js",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "ntG2C6M9uPUQKaqg"
+    },
+    {
+        "type": "Directory",
+        "name": "d:\\WorkSpace\\GitHub\\Week6-Vue3-2022\\w6-routes-table1\\src\\components",
+        "parent_id": null,
+        "fsPath": "d:\\WorkSpace\\GitHub\\Week6-Vue3-2022\\w6-routes-table1\\src\\components",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "n2msRB4JxOXcYyZq"
+    },
+    {
+        "type": "Group",
+        "name": "routes-table1",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "dlOFx07MW8XJANvo"
+    }
+]
