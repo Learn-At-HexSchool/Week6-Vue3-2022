@@ -2,7 +2,7 @@
 
 module.exports = {
     publicPath: process.env.NODE_ENV === 'production'
-        // name of repo
-        ? '/week6-vue3-2022/'
+        // same as '<the-project-name>'
+        ? '/w6-routes-table1/'
         : '/'
 }
